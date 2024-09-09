@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^1.0.0",
+    "@top-gg/sdk": "^3.1.5",
+    "dayjs": "^1.11.9",
+    "discord-api-types": "^0.37.3",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.0.3",
+    "firebase-admin": "^11.0.0",
+    "keyv": "^4.3.3",
+    "node-fetch": "^2.7.0",
+    "node-html-to-image": "^3.2.4",
+    "pg": "^8.8.0",
+    "sequelize": "^6.37.3",
+    "topgg-autoposter": "^2.0.1",
+    "undici": "^5.22.1"
+  },
+  "main": "index.js",
+  "author": "Nathaniel Rivera",
+  "name": "discord-econ",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
