@@ -1,5 +1,5 @@
 # ECONDiscord
-An Economy Bot Developed By Roleplayers for Roleplayers. Developed by [@DeveloperSpoot](https://github.com/DeveloperSpoot), Visioned and Orignally Designed By [@jcrump97](https://github.com/jcrump97).
+An Economy Bot Developed By Roleplayers for Roleplayers. Developed by [@DeveloperSpoot](https://github.com/DeveloperSpoot), Visioned and Originally Designed By [@jcrump97](https://github.com/jcrump97).
 
 ## Getting Started
 1. Create a ``.env`` File. In the .env file, include the following vairables:
